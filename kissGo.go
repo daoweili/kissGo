@@ -1,5 +1,7 @@
 package kissGo
 
-func Test() {
+import "fmt"
 
+func Test() {
+	fmt.Println("module test success.")
 }
