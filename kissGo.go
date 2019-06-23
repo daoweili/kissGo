@@ -1,0 +1,5 @@
+package kissGo
+
+func Test() {
+
+}
