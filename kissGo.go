@@ -1,4 +1,4 @@
-package kissGo
+package main
 
 import "fmt"
 
